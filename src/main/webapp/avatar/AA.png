@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep da * 2> grep-er.txt
